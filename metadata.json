@@ -1,0 +1,5 @@
+{
+  "name": "PolyBit Arbitrage AI",
+  "description": "An AI-powered specialized arbitrage system analyzing misalignments between Polymarket retail sentiment and Deribit institutional options volatility.",
+  "requestFramePermissions": []
+}
